@@ -27,7 +27,7 @@
 <img align="left" alt="Nilanga Kumara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <a href="https://www.instagram.com/ni_langa/?fbclid=IwAR3s96SKjwXoGg235cSRPWhV0W-SsU7FqQBXGCSwrWX2yhRb0w98toVWXcQ">
-<img align="left" alt="Punarjeewa Rashmitha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<img align="left" alt="Nilanga Kumara| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100070008909827">
 <img align="left" alt="Nilanga Kumara| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
