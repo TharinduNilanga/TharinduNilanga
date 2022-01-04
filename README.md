@@ -14,7 +14,8 @@
 - 👯 I’m looking to collaborate with other content creators..
 - 🥅 Working hard to be a talented Software Engineer..
 - 🥅 Breathing with Software Development😇..
-- ⚡ Fun fact: I love  cricket and badminton 
+- ⚡ Fun fact: I love  cricket and badminton..
+- ⚡ Fun fact: Song Writter..
 
 ### Connect with me:
 
