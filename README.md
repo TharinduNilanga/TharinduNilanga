@@ -13,12 +13,7 @@
 - 🌱 I’m currently learning everything..
 - 👯 I’m looking to collaborate with other content creators..
 - 🥅 Working hard to be a talented Software Engineer..
-- 🥅While(no sucess) br
-        {br
-            tryAgain();br
-            if(Dead)br
-                 break;
-        }
+- 🥅 Breathing with Software Development😇..
 - ⚡ Fun fact: I love  cricket and badminton 
 
 ### Connect with me:
