@@ -9,11 +9,11 @@
 
 ## I'm a Full Stack Developer and Designer.!!
 
-- 🔭 I'm currently studying GDSE at Institute of Java and Software Engineering
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Working hard to finish GDSE successfully and working on a reputed software company for my internship .
-- 🥅 2023 Goals: Completion of my topup degree in a highly reputed university for better education and career opportunities.
+- 🔭 I'm currently studying GDSE at Institute of Java and Software Engineering..
+- 🌱 I’m currently learning everything..
+- 👯 I’m looking to collaborate with other content creators..
+- 🥅 Working hard to be a talented Software Engineer..
+- 🥅
 - ⚡ Fun fact: I love  cricket and badminton 
 
 ### Connect with me:
